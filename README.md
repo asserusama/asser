@@ -1,7 +1,14 @@
 # 👋 Hi, I'm Asser Osama
 
-🎓 Junior Computer Science Student | 📱 iOS Developer Intern | 🇪🇬 Based in Cairo, Egypt  
-[📧 Email](mailto:asser.usamaa@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/asserusama) | [📂 GitHub](https://github.com/asserusama) | [📹 SwiftCairo YouTube](https://www.youtube.com/@SwiftCairo)
+📱 iOS Software Engineer
+
+🇪🇬 Based in Cairo, Egypt  
+
+[📧 Email](mailto:asser.usamaa@gmail.com)
+
+[💼 LinkedIn](https://linkedin.com/in/asserusama)
+
+[📹 YouTube](https://www.youtube.com/@SwiftCairo)
 
 ---
 
