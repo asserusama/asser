@@ -14,4 +14,4 @@
 
 ## 💡 About Me
 
-I'm a passionate iOS developer with a solid foundation in Swift and SwiftUI, currently pursuing a Computer Science degree (Graduating 2026).
+I'm a passionate iOS Engineer with a solid foundation in Swift and SwiftUI, currently pursuing a Computer Science degree (Graduating 2026).
